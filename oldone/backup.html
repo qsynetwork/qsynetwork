@@ -23,11 +23,19 @@
         bottom: 0;
         width: 100%;
       }
-      .mapboxgl-popup-content{
-          width: 250px!important;
+      .marker {
+        display: block;
+        border: none;
+        border-radius: 50%;
+        cursor: pointer;
+        padding: 0;
+        background-image: url("/location.png");
+        width: 50px;
+        height: 50px;
+        background-size: 100%;
       }
       .markerbox {
-        width: 250px!important;
+        width: fit-content;
         /* background-color: #6ecc39; */
         padding: 10px 10px 10px 10px;
         display: grid;
@@ -94,12 +102,7 @@
     }
 
       map.on("load", function () {
-          map.loadImage("/location.png",function (error,image){
-            if(error) throw error;
-
-            map.addImage("markerr", image);
-
-                    // Add a new source from our GeoJSON data and
+        // Add a new source from our GeoJSON data and
         // set the 'cluster' option to true. GL-JS will
         // add the point_count property to your source data.
         map.addSource("profiledata", {
@@ -127,16 +130,16 @@
             "circle-color": [
               "step",
               ["get", "point_count"],
-              "#f1f075",
+              "#51bbd6",
               100,
               "#f1f075",
               750,
-              "#f1f075",
+              "#f28cb1",
             ],
             "circle-radius": [
               "step",
               ["get", "point_count"],
-              30,
+              20,
               100,
               30,
               750,
@@ -152,9 +155,9 @@
           filter: ["has", "point_count"],
           layout: {
             "text-field": "{point_count_abbreviated}",
-            "text-font": ["Arial Unicode MS Bold"],
-            "text-size": 20,
-           },
+            "text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
+            "text-size": 12,
+          },
         });
 
         // map.addLayer({
@@ -176,8 +179,8 @@
           source: "profiledata",
           filter: ["!", ["has", "point_count"]],
           layout: {
-          "icon-image": "markerr", // reference the image
-          "icon-size": 0.10,
+          "icon-image": "cat", // reference the image
+          "icon-size": 0.25,
         },
         });
 
@@ -229,9 +232,8 @@
         map.on("mouseleave", "clusters", function () {
           map.getCanvas().style.cursor = "";
         });
-          })
-        })      
-    ;
+      
+    });
     </script>
   </body>
 </html>
