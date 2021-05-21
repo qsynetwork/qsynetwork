@@ -78,8 +78,8 @@
       var map = new mapboxgl.Map({
         container: "map",
         style: "mapbox://styles/mapbox/dark-v10",
-        center: [-103.59179687498357, 40.66995747013945],
-        zoom: 1,
+        center: [77.257096,28.539140],
+        zoom: 2,
       });
 
       function generateMarker(data) {
@@ -136,7 +136,7 @@
             "circle-radius": [
               "step",
               ["get", "point_count"],
-              30,
+              20,
               100,
               30,
               750,
