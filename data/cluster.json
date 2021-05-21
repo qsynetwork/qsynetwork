@@ -1,0 +1,212 @@
+{
+    "features": [
+        {
+            "properties": {
+                "num": 0,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.539140",
+                    "77.257096"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 1,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.564634",
+                    "77.258377"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 2,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.533905",
+                    "77.272343"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 3,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.545885",
+                    "77.255393"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 4,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.553203",
+                    "77.282615"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 5,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.564750",
+                    "77.273293"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 6,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.564949",
+                    "77.266432"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 7,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.564541",
+                    "77.264734"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 8,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.553345",
+                    "77.281052"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 9,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.556327",
+                    "77.275693"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 10,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.534699",
+                    "77.269691"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 11,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.546400",
+                    "77.283082"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "num": 12,
+                "pic": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
+                "name": "Test Name",
+                "location": "test place"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.553958",
+                    "77.254321"
+                ]
+            }
+        }
+    ]
+}
