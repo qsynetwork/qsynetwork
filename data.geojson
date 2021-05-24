@@ -524,7 +524,756 @@
                     "22.560780"
                 ]
             }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Mayookh Bhaumik.jpg",
+                "name": "MAYOOKH BHAUMIK",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.356801",
+                    "22.540649"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Murshidabadi.jpeg",
+                "name": "MURSHIDABADI",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.362900",
+                    "22.536482"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Diptarka Bose.jpg",
+                "name": "DIPTARKA BOSE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.363441",
+                    "22.529449"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Ator_Mukherjee.jpg",
+                "name": "ATOR MUKHERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.356927",
+                    "22.527379"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Orchon___Maitree.jpg",
+                "name": "ORCHON & MAITREE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.355652",
+                    "22.531357"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Srijoy Maitra.jpg",
+                "name": "SRIJOY MAITRA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.358721",
+                    "22.531039"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Subhadrakalyan - Singing Beats.jpg",
+                "name": "SUBHADRAKALYAN",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.356940",
+                    "22.528146"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Rajkishore_Mukherjee - Hindusthani Classical Vocal.jpeg",
+                "name": "RAJKISHORE MUKHERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.361896",
+                    "22.530266"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Gourab Das.jpg",
+                "name": "GOURAB DAS",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.360416",
+                    "22.525668"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Ankit Mukherjee.jpeg",
+                "name": "ANKIT MUKHERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.363828",
+                    "22.533834"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Sujoy_Prasad_Chatterjee.jpeg",
+                "name": "SUJOY PRASAD CHATTERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.388918",
+                    "22.631953"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Kheya Chattopadhyay.jpg",
+                "name": "KHEYA CHATTOPADHYAY",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.402198",
+                    "22.617896"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/default_profile.jpg",
+                "name": "KAUSHANI MUKHERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.393176",
+                    "22.604704"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Aritraa Sengupta.jpg",
+                "name": "ARITRAA SENGUPTA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.379896",
+                    "22.616763"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Durjoy_Choudhury.jpg",
+                "name": "DURJOY CHOUDHURY",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.353666",
+                    "22.574101"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Amrita.jpg",
+                "name": "AMRITA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.356168",
+                    "22.566170"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Bong Eats.jpg",
+                "name": "BONG EATS",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.346829",
+                    "22.555081"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Shayok_Banerjee.jpeg",
+                "name": "SHAYOK BANERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.356668",
+                    "22.570867"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Chandrima_Roy.jpg",
+                "name": "CHANDRIMA ROY",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.356752",
+                    "22.541372"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Jahson_Bull.jpg",
+                "name": "JAHSON BULL",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-12.002923",
+                    "8.676008"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Sasha_Ghoshal.jpg",
+                "name": "SASHA GHOSHAL",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.127521",
+                    "54.187129"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/default_profile.jpg",
+                "name": "ANITA DATTA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.110372",
+                    "54.218235"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Dipanjan _ Diyasha.jpeg",
+                "name": "DIPANJAN & DIYASHA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.100353",
+                    "54.177432"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Hrishit_Banerjee.jpg",
+                "name": "HRISHIT BANERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.177347",
+                    "54.162967"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Elpida Vounzoulaki.jpg",
+                "name": "ELPIDA VOUNZOULAKI",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.141141",
+                    "54.174528"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Debjani Dasgupta UK.jpeg",
+                "name": "DEBJANI DASGUPTA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.190893",
+                    "54.185271"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Seonaid Murray_Matt Holland_Jim Rainey - The Cosmic Three.jpg",
+                "name": "SEONAID MURRAY, MATT HOLLAND & JIM RAINEY - THE COSMIC THREE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.953301",
+                    "54.802859"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Soumabrata___Shrestha.jpeg",
+                "name": "SOUMABRATA & SHRESTHA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.115350",
+                    "54.753753"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Irene Sarkar.jpg",
+                "name": "IRENE SARKAR",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.890130",
+                    "54.722040"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Saunak Das.jpg",
+                "name": "SAUNAK DAS",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.452085",
+                    "50.632295"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Proiti__ Samyabrata.jpeg",
+                "name": "PROITI & SAMYABRATA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.124841",
+                    "56.007642"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Satanik_Mukherjee.png",
+                "name": "SATANIK MUKHERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.416363",
+                    "50.729242"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Swagata___Sauvik.jpeg",
+                "name": "SWAGATA & SAUVIK",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.867093",
+                    "52.200949"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Aparna_Chatterjee.jpeg",
+                "name": "APARNA CHATTERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.696054",
+                    "60.229338"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Subrat Ghosh.jpg",
+                "name": "SUBRAT GHOSH",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.936291",
+                    "42.375320"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/RAJA_BANERJEE___RUPKATHA.jpeg",
+                "name": "RAJA BANERJEE & RUPKATHA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.370137",
+                    "33.751709"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Kamalini_Mukherji.jpeg",
+                "name": "KAMALINI MUKHERJI",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-119.269567",
+                    "37.359218"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Kelsey_Fahy.jpeg",
+                "name": "KELSEY FAHY",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.522496",
+                    "37.236865"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Rick___Debbie.png",
+                "name": "RICK AND DEBBIE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.745709",
+                    "32.680351"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Saikat Mukherjee.jpg",
+                "name": "SAIKAT MUKHERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-94.340547",
+                    "45.902501"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Snehesh Nag.jpg",
+                "name": "SNEHESH NAG",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.590681",
+                    "42.078785"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Debangana_Sarkar.jpeg",
+                "name": "DEBANGANA SARKAR",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.258113",
+                    "37.360324"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Moushumi_Banerjee.jpeg",
+                "name": "MOUSUMI BANERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-85.832447",
+                    "46.262045"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Shruti Sarod.jpg",
+                "name": "SHRUTI SAROD",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.937802",
+                    "40.709376"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/ECTA.jpg",
+                "name": "ECTA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.516006",
+                    "40.008758"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Supurna_Dasgupta.jpg",
+                "name": "SUPURNA DASGUPTA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-88.894616",
+                    "40.063342"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Aritraa Sengupta.jpg",
+                "name": "ARITRA SENGUPTA",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "173.097051",
+                    "-41.868676"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Kolketa_Kolorob_Ft._Anubhav_Sohang.jpg",
+                "name": "KOLKETA KOLOROB FT. ANUBHAV & SOHANG",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.857797",
+                    "41.086712"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Avro Paul.jpeg",
+                "name": "AVRA PAUL",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "103.824328",
+                    "1.318115"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Saheli_Sanyal_UAE.jpeg",
+                "name": "SAHELI SANYAL",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "54.103656",
+                    "23.662424"
+                ]
+            }
         }
-        
     ]
 }
