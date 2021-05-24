@@ -34,8 +34,8 @@
         display: grid;
         grid-template-columns: auto auto;
         /* border: 0.5px solid grey; */
-        /* border-radius: 10px;
-	box-shadow: 5px 5px  #ebebeb; */
+        /* border-radius: 10px; 
+	      box-shadow: 5px 5px  #ebebeb; */
       }
 
       .markerbox a {
@@ -44,7 +44,7 @@
       .markerbox img {
         border-radius: 10px;
         /* box-shadow: 5px 5px  #ebebeb; */
-        height: 100px;
+        height: 60px;
       }
       .detailsbox {
         /* background-color: red; */
@@ -57,13 +57,13 @@
 
       .detailsbox .name {
         font-weight: bold;
-        font-size: 20px;
+        font-size: 18px;
         color: black;
       }
 
       .detailsbox .location {
         font-weight: 600;
-        font-size: 18px;
+        font-size: 15px;
         color: black;
         opacity: 0.8;
       }
@@ -163,7 +163,7 @@
         container: "map",
         style: "mapbox://styles/mapbox/streets-v11",
         center: [77.257096,28.539140],
-        zoom: 0,
+        zoom: 2,
       });
 
       function generateMarker(data) {
@@ -178,7 +178,7 @@
     }
 
     function backToWorld(){
-      map.setZoom(0);
+      map.setZoom(1);
     }
 
       map.on("load", function () {
@@ -197,7 +197,7 @@
           data: "./data.geojson",
           cluster: true,
           clusterMaxZoom: 14, // Max zoom to cluster points on
-          clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
+          clusterRadius: 500, // Radius of each cluster when clustering points (defaults to 50)
         });
 
 
@@ -311,12 +311,15 @@
             )
             .addTo(map);
         });
+
         map.on("mouseenter", "clusters", function () {
           map.getCanvas().style.cursor = "pointer";
         });
+
         map.on("mouseleave", "clusters", function () {
           map.getCanvas().style.cursor = "";
         });
+
           })
         })      
     ;
