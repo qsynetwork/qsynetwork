@@ -164,7 +164,7 @@
         // style: "mapbox://styles/mapbox/streets-v11",
         style : "mapbox://styles/mapbox/satellite-v9",
         center: [77.257096,28.539140],
-        zoom: 2,
+        zoom: 0,
       });
 
       function generateMarker(data) {
@@ -198,7 +198,7 @@
           data: "./datacompressed.geojson",
           cluster: true,
           clusterMaxZoom: 14, // Max zoom to cluster points on
-          clusterRadius: 100, // Radius of each cluster when clustering points (defaults to 50)
+          clusterRadius: 70, // Radius of each cluster when clustering points (defaults to 50)
         });
 
 
