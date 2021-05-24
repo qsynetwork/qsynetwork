@@ -370,7 +370,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "88.367427",
+                    "88.368427",
                     "22.565609"
                 ]
             }
@@ -387,6 +387,141 @@
                 "coordinates": [
                     "88.362588",
                     "22.566609"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Siddhartha_Sidhu_Ray.jpg",
+                "name": "SIDDHARTHA SIDHU RAY - CACTUSS",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.363157",
+                    "22.568199"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Abhijit_Pata_ Barman.jpg",
+                "name": "ABHIJIT PATA BARMAN - CACTUSS",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.364734",
+                    "22.558872"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Bhaswar_Sen.jpg",
+                "name": "BHASWAR SEN (T.R.A.P.)",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.363103",
+                    "22.557534"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Shibasish_Banerjee.jpg",
+                "name": "SHIBASISH BANERJEE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.362019",
+                    "22.559446"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Nabarun_bose.jpg",
+                "name": "NABARUN BOSE",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.361236",
+                    "22.557395"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Koushik Chakraborty.jpg",
+                "name": "KOUSHIK CHAKRABORTY - PRITHIBI",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.364294",
+                    "22.556910"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Neel Adhikari.jpg",
+                "name": "NEEL ADHIKARI",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.365548",
+                    "22.559980"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Paloma_Majumder.jpg",
+                "name": "PALOMA MAJUMDAR",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.366075",
+                    "22.565111"
+                ]
+            }
+        },
+        {
+            "properties": {
+                "pic": "./artists/Sourjyo_Whale_In_The_Pond.jpg",
+                "name": "SOURJYO - WHALE IN THE POND",
+                "datetime": "May 28, 8 PM IST"
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.362354",
+                    "22.560780"
                 ]
             }
         }
