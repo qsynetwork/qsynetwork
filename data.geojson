@@ -4,7 +4,7 @@
             "properties": {
                 "pic": "./artists/Rahul_Ram.jpg",
                 "name": "RAHUL RAM",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -19,7 +19,7 @@
             "properties": {
                 "pic": "./artists/Shantanu Moitra.jpg",
                 "name": "SHANTANU MOITRA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -49,7 +49,7 @@
             "properties": {
                 "pic": "./artists/Anurag Basu.jpeg",
                 "name": "ANURAG BASU",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 8:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -64,7 +64,7 @@
             "properties": {
                 "pic": "./artists/Ankur Tewari.jpg",
                 "name": "ANKUR TEWARI",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -79,7 +79,7 @@
             "properties": {
                 "pic": "./artists/Neil Mukherjee Mumbai.jpg",
                 "name": "NEIL MUKHERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -94,7 +94,7 @@
             "properties": {
                 "pic": "./artists/Mohan Kannan Mumbai.jpg",
                 "name": "MOHAN KANNAN - AGNEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -108,8 +108,8 @@
         {
             "properties": {
                 "pic": "./artists/Tanmoy_Bose.jpg",
-                "name": "PT. TANMOY BOSE",
-                "datetime": "May 28, 8 PM IST"
+                "name": "PT. TANMAY BOSE",
+                "datetime": "29th May, 11:30 AM ~ 3:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -124,7 +124,7 @@
             "properties": {
                 "pic": "./artists/Moushumi_Bhowmik.jpeg",
                 "name": "MOUSHUMI BHOWMIK",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -139,7 +139,7 @@
             "properties": {
                 "pic": "./artists/Borno_Anonyo.jpeg",
                 "name": "BORNO ANONYO FEAT. SATYAKI, NABAMITA, RAJARSHI",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -154,7 +154,7 @@
             "properties": {
                 "pic": "./artists/Gaurab_Gaboo_Chatterjee.jpg",
                 "name": "GAURAB GABOO CHATTERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 5:45 PM ~ 9:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -169,7 +169,7 @@
             "properties": {
                 "pic": "./artists/Rohan_Ganguli.jpg",
                 "name": "ROHAN GANGULI",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -184,7 +184,7 @@
             "properties": {
                 "pic": "./artists/Bodhisattwa_Ghosh.jpg",
                 "name": "BODHISATTWA GHOSH",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -199,7 +199,7 @@
             "properties": {
                 "pic": "./artists/Soumalya_Das.jpg",
                 "name": "SOUMALYA DAS",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -214,7 +214,7 @@
             "properties": {
                 "pic": "./artists/Bhaskar_Dutta.jpeg",
                 "name": "BHASKAR DUTTA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -229,7 +229,7 @@
             "properties": {
                 "pic": "./artists/Ronee_Roy.jpg",
                 "name": "RONEE ROY",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 11:30 AM ~ 3:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -244,7 +244,7 @@
             "properties": {
                 "pic": "./artists/default_profile.png",
                 "name": "BUDHADITYA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -259,7 +259,7 @@
             "properties": {
                 "pic": "./artists/Aseer_Arman.jpg",
                 "name": "ASEER ARMAN",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -274,7 +274,7 @@
             "properties": {
                 "pic": "./artists/Lopamudra Mitra.jpg",
                 "name": "LOPAMUDRA MITRA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -289,7 +289,7 @@
             "properties": {
                 "pic": "./artists/Joy Sarkar.jpg",
                 "name": "JOY SARKAR",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -304,7 +304,7 @@
             "properties": {
                 "pic": "./artists/Abraham Mazumder.jpg",
                 "name": "ABRAHAM MAZUMDER",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 5:45 PM ~ 9:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -319,7 +319,7 @@
             "properties": {
                 "pic": "./artists/Srikanta_Acharya___Purab.jpg",
                 "name": "SRIKANTA ACHARYA & PURAB",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -334,7 +334,7 @@
             "properties": {
                 "pic": "./artists/Raghav-Chattopadhyay.jpg",
                 "name": "RAGHAV CHATTOPADHYAY",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -349,7 +349,7 @@
             "properties": {
                 "pic": "./artists/Rajib Das Dohar.jpg",
                 "name": "RAJIB DAS - DOHAR",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -364,7 +364,7 @@
             "properties": {
                 "pic": "./artists/Srijato Bandopadhyay.jpg",
                 "name": "SRIJATO BANDOPADHYAY",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -379,7 +379,7 @@
             "properties": {
                 "pic": "./artists/Anindya_Bose.jpg",
                 "name": "ANINDYA BOSE - SHOHOR",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 8:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -394,7 +394,7 @@
             "properties": {
                 "pic": "./artists/Siddhartha_Sidhu_Ray.jpg",
                 "name": "SIDDHARTHA SIDHU RAY - CACTUSS",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -409,7 +409,7 @@
             "properties": {
                 "pic": "./artists/Abhijit_Pata_ Barman.jpg",
                 "name": "ABHIJIT PATA BARMAN - CACTUSS",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 11:30 AM ~ 3:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -424,7 +424,7 @@
             "properties": {
                 "pic": "./artists/Bhaswar_Sen.jpg",
                 "name": "BHASWAR SEN (T.R.A.P.)",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 5:45 PM ~ 9:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -439,7 +439,7 @@
             "properties": {
                 "pic": "./artists/Shibasish_Banerjee.jpg",
                 "name": "SHIBASISH BANERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -454,7 +454,7 @@
             "properties": {
                 "pic": "./artists/Nabarun_bose.jpg",
                 "name": "NABARUN BOSE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -469,7 +469,7 @@
             "properties": {
                 "pic": "./artists/Koushik Chakraborty.jpg",
                 "name": "KOUSHIK CHAKRABORTY - PRITHIBI",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -484,7 +484,7 @@
             "properties": {
                 "pic": "./artists/Neel Adhikari.jpg",
                 "name": "NEEL ADHIKARI",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -499,7 +499,7 @@
             "properties": {
                 "pic": "./artists/Paloma_Majumder.jpg",
                 "name": "PALOMA MAJUMDAR",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -514,7 +514,7 @@
             "properties": {
                 "pic": "./artists/Sourjyo_Whale_In_The_Pond.jpg",
                 "name": "SOURJYO - WHALE IN THE POND",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -529,7 +529,7 @@
             "properties": {
                 "pic": "./artists/Mayookh Bhaumik.jpg",
                 "name": "MAYOOKH BHAUMIK",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -544,7 +544,7 @@
             "properties": {
                 "pic": "./artists/Murshidabadi.jpeg",
                 "name": "MURSHIDABADI",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -559,7 +559,7 @@
             "properties": {
                 "pic": "./artists/Diptarka Bose.jpg",
                 "name": "DIPTARKA BOSE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -574,7 +574,7 @@
             "properties": {
                 "pic": "./artists/Ator_Mukherjee.jpg",
                 "name": "ATOR MUKHERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -589,7 +589,7 @@
             "properties": {
                 "pic": "./artists/Orchon___Maitree.jpg",
                 "name": "ORCHON & MAITREE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -604,7 +604,7 @@
             "properties": {
                 "pic": "./artists/Srijoy Maitra.jpg",
                 "name": "SRIJOY MAITRA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -619,7 +619,7 @@
             "properties": {
                 "pic": "./artists/Subhadrakalyan - Singing Beats.jpg",
                 "name": "SUBHADRAKALYAN",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -634,7 +634,7 @@
             "properties": {
                 "pic": "./artists/Rajkishore_Mukherjee - Hindusthani Classical Vocal.jpeg",
                 "name": "RAJKISHORE MUKHERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 8:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -649,7 +649,7 @@
             "properties": {
                 "pic": "./artists/Gourab Das.jpg",
                 "name": "GOURAB DAS",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 11:30 AM ~ 3:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -664,7 +664,7 @@
             "properties": {
                 "pic": "./artists/Ankit Mukherjee.jpeg",
                 "name": "ANKIT MUKHERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 11:30 AM ~ 3:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -679,7 +679,7 @@
             "properties": {
                 "pic": "./artists/Sujoy_Prasad_Chatterjee.jpeg",
                 "name": "SUJOY PRASAD CHATTERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 11:30 AM ~ 2:45 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -694,7 +694,7 @@
             "properties": {
                 "pic": "./artists/Kheya Chattopadhyay.jpg",
                 "name": "KHEYA CHATTOPADHYAY",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 11:30 AM ~ 3:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -709,7 +709,7 @@
             "properties": {
                 "pic": "./artists/default_profile.jpg",
                 "name": "KAUSHANI MUKHERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -724,7 +724,7 @@
             "properties": {
                 "pic": "./artists/Aritraa Sengupta.jpg",
                 "name": "ARITRAA SENGUPTA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 11:30 AM ~ 3:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -739,7 +739,7 @@
             "properties": {
                 "pic": "./artists/Durjoy_Choudhury.jpg",
                 "name": "DURJOY CHOUDHURY",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -754,7 +754,7 @@
             "properties": {
                 "pic": "./artists/Amrita.jpg",
                 "name": "AMRITA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -769,7 +769,7 @@
             "properties": {
                 "pic": "./artists/Bong Eats.jpg",
                 "name": "BONG EATS",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 5:45 PM ~ 9:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -784,7 +784,7 @@
             "properties": {
                 "pic": "./artists/Shayok_Banerjee.jpeg",
                 "name": "SHAYOK BANERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -799,7 +799,7 @@
             "properties": {
                 "pic": "./artists/Chandrima_Roy.jpg",
                 "name": "CHANDRIMA ROY",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 8:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -814,7 +814,7 @@
             "properties": {
                 "pic": "./artists/Jahson_Bull.jpg",
                 "name": "JAHSON BULL",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -829,7 +829,7 @@
             "properties": {
                 "pic": "./artists/Sasha_Ghoshal.jpg",
                 "name": "SASHA GHOSHAL",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -859,7 +859,7 @@
             "properties": {
                 "pic": "./artists/Dipanjan _ Diyasha.jpeg",
                 "name": "DIPANJAN & DIYASHA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -874,7 +874,7 @@
             "properties": {
                 "pic": "./artists/Hrishit_Banerjee.jpg",
                 "name": "HRISHIT BANERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -889,7 +889,7 @@
             "properties": {
                 "pic": "./artists/Elpida Vounzoulaki.jpg",
                 "name": "ELPIDA VOUNZOULAKI",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -904,7 +904,7 @@
             "properties": {
                 "pic": "./artists/Debjani Dasgupta UK.jpeg",
                 "name": "DEBJANI DASGUPTA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -919,7 +919,7 @@
             "properties": {
                 "pic": "./artists/Seonaid Murray_Matt Holland_Jim Rainey - The Cosmic Three.jpg",
                 "name": "SEONAID MURRAY, MATT HOLLAND & JIM RAINEY - THE COSMIC THREE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -934,7 +934,7 @@
             "properties": {
                 "pic": "./artists/Soumabrata___Shrestha.jpeg",
                 "name": "SOUMABRATA & SHRESTHA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -949,7 +949,7 @@
             "properties": {
                 "pic": "./artists/Irene Sarkar.jpg",
                 "name": "IRENE SARKAR",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 11:30 AM ~ 3:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -964,7 +964,7 @@
             "properties": {
                 "pic": "./artists/Saunak Das.jpg",
                 "name": "SAUNAK DAS",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -979,7 +979,7 @@
             "properties": {
                 "pic": "./artists/Proiti__ Samyabrata.jpeg",
                 "name": "PROITI & SAMYABRATA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -994,7 +994,7 @@
             "properties": {
                 "pic": "./artists/Satanik_Mukherjee.png",
                 "name": "SATANIK MUKHERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1009,7 +1009,7 @@
             "properties": {
                 "pic": "./artists/Swagata___Sauvik.jpeg",
                 "name": "SWAGATA & SAUVIK",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 5:45 PM ~ 9:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1024,7 +1024,7 @@
             "properties": {
                 "pic": "./artists/Aparna_Chatterjee.jpeg",
                 "name": "APARNA CHATTERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 5:45 PM ~ 9:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1039,7 +1039,7 @@
             "properties": {
                 "pic": "./artists/Subrat Ghosh.jpg",
                 "name": "SUBRAT GHOSH",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 5:45 PM ~ 9:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1054,7 +1054,7 @@
             "properties": {
                 "pic": "./artists/RAJA_BANERJEE___RUPKATHA.jpeg",
                 "name": "RAJA BANERJEE & RUPKATHA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 5:45 PM ~ 9:00 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1068,8 +1068,8 @@
         {
             "properties": {
                 "pic": "./artists/Kamalini_Mukherji.jpeg",
-                "name": "KAMALINI MUKHERJI",
-                "datetime": "May 28, 8 PM IST"
+                "name": "KAMALINI MUKHERJEE",
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1084,7 +1084,7 @@
             "properties": {
                 "pic": "./artists/Kelsey_Fahy.jpeg",
                 "name": "KELSEY FAHY",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1099,7 +1099,7 @@
             "properties": {
                 "pic": "./artists/Rick___Debbie.png",
                 "name": "RICK AND DEBBIE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 8:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1114,7 +1114,7 @@
             "properties": {
                 "pic": "./artists/Saikat Mukherjee.jpg",
                 "name": "SAIKAT MUKHERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 8:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1129,7 +1129,7 @@
             "properties": {
                 "pic": "./artists/Snehesh Nag.jpg",
                 "name": "SNEHESH NAG",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1144,7 +1144,7 @@
             "properties": {
                 "pic": "./artists/Debangana_Sarkar.jpeg",
                 "name": "DEBANGANA SARKAR",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 5:15 PM ~ 8:30 PM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1159,7 +1159,7 @@
             "properties": {
                 "pic": "./artists/Moushumi_Banerjee.jpeg",
                 "name": "MOUSUMI BANERJEE",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 9:00 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1174,7 +1174,7 @@
             "properties": {
                 "pic": "./artists/Shruti Sarod.jpg",
                 "name": "SHRUTI SAROD",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1189,7 +1189,7 @@
             "properties": {
                 "pic": "./artists/ECTA.jpg",
                 "name": "ECTA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 8:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1204,7 +1204,7 @@
             "properties": {
                 "pic": "./artists/Supurna_Dasgupta.jpg",
                 "name": "SUPURNA DASGUPTA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1219,7 +1219,7 @@
             "properties": {
                 "pic": "./artists/Aritraa Sengupta.jpg",
                 "name": "ARITRA SENGUPTA",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 7:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1234,7 +1234,7 @@
             "properties": {
                 "pic": "./artists/Kolketa_Kolorob_Ft._Anubhav_Sohang.jpg",
                 "name": "KOLKETA KOLOROB FT. ANUBHAV & SOHANG",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "30th May, 8:30 PM ~ 12:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
@@ -1249,7 +1249,7 @@
             "properties": {
                 "pic": "./artists/Avro Paul.jpeg",
                 "name": "AVRA PAUL",
-                "datetime": "May 28, 8 PM IST"
+                "datetime": "29th May, 8:45 AM ~ 11:30 AM IST"
             },
             "type": "Feature",
             "geometry": {
